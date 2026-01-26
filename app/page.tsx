@@ -92,7 +92,7 @@ export default function Home() {
             <div className="bg-slate-800/50 rounded-2xl p-8 border border-slate-700">
               <h3 className="text-2xl font-bold mb-4">Web3 Executive Leadership</h3>
               <p className="text-slate-400">
-                Beyond technical roles, Web3 projects need strong executive leadership. For <a href="https://fractional.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">fractional executive recruitment</a> — including part-time CFOs and COOs for crypto startups — or dedicated <a href="https://chiefofstaff.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">chief of staff recruitment</a>, explore our specialist partners.
+                Beyond technical roles, Web3 projects need strong executive leadership. For <a href="https://fractional.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">fractional executive recruitment</a> — including <a href="https://fractional.quest/fractional-cfo" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">part-time CFOs</a> and <a href="https://fractional.quest/fractional-coo" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">COOs</a> for crypto startups — or dedicated <a href="https://chiefofstaff.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">chief of staff recruitment</a>, explore our specialist partners.
               </p>
             </div>
           </div>

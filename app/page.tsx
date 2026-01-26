@@ -86,6 +86,18 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Executive Leadership */}
+        <section className="py-16 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-7xl mx-auto">
+            <div className="bg-slate-800/50 rounded-2xl p-8 border border-slate-700">
+              <h3 className="text-2xl font-bold mb-4">Web3 Executive Leadership</h3>
+              <p className="text-slate-400">
+                Beyond technical roles, Web3 projects need strong executive leadership. For <a href="https://fractional.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">fractional executive recruitment</a> — including part-time CFOs and COOs for crypto startups — or dedicated <a href="https://chiefofstaff.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">chief of staff recruitment</a>, explore our specialist partners.
+              </p>
+            </div>
+          </div>
+        </section>
+
         {/* Roles */}
         <section id="roles" className="py-20 px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto">

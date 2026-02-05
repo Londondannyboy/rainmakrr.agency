@@ -91,8 +91,11 @@ export default function Home() {
           <div className="max-w-7xl mx-auto">
             <div className="bg-slate-800/50 rounded-2xl p-8 border border-slate-700">
               <h3 className="text-2xl font-bold mb-4">Web3 Executive Leadership</h3>
-              <p className="text-slate-400">
+              <p className="text-slate-400 mb-4">
                 Beyond technical roles, Web3 projects need strong executive leadership. For <a href="https://fractional.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">fractional executive recruitment</a> — including <a href="https://fractional.quest/fractional-cfo" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">part-time CFOs</a> and <a href="https://fractional.quest/fractional-coo" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">COOs</a> for crypto startups — or dedicated <a href="https://chiefofstaff.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">chief of staff recruitment</a>, explore our specialist partners.
+              </p>
+              <p className="text-slate-400">
+                As Web3 projects scale, they also need operational infrastructure including procurement and vendor management. For support with tenders and proposal processes, our <a href="https://rfp.quest" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">RFP platform</a> partner provides AI-powered <a href="https://rfp.quest/rfp-software" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">RFP software</a> for UK-based teams.
               </p>
             </div>
           </div>
